@@ -1,0 +1,2 @@
+Saat di Homepage, Ketika user klik button Add new task maka akan diarahkan ke halaman lain untuk menginput task baru
+ketika user mengklik delete button pada sebuah task, maka task tersebut akan di hapus
